@@ -1,6 +1,7 @@
 
 ### 👋 Oi! Eu sou o João Álvaro
-💻 Técnico formado em Desenvolvimento de Sistema pela ETEC de São José dos Campos 
+💻 Técnico formado em Desenvolvimento de Sistema pela ETEC 
+👨‍💻 Estudante em Análise e Desenvolvimento de Sistemas na FATEC de São José dos Campos
 
 Meus Contatos: <br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaosilvaabc1@mail.com)
