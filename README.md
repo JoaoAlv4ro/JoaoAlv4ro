@@ -11,16 +11,16 @@ Estou aberto a novas oportunidades para expandir meus conhecimentos e contribuir
 💻 Técnico formado em Desenvolvimento de Sistema pela ETEC; <br>
 👨‍💻 Atualmente, estudante em Análise e Desenvolvimento de Sistemas na FATEC de São José dos Campos.
 
-## ☎ Meus Contatos: <br>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaosilvaabc1@mail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5512997444739)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoalv4ro/)
-
 ## 🚀 Tecnologias:
 | Linguagens | Frameworks | IDE's | Ferramentas | SO |
 | ----- | ---- | ---- | ---- | ---- |
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" title="HTML, CSS, JavaScript"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask,tailwind" title="Flask, Tailwind"/></a></div>| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" title="Git, GitHub"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" title="Windows"/></a></div> |
 |  <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,cpp,mysql" title="Python, C++, MySQL"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap,react" title="Bootstrap, React"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,figma" title="Amazon Web Service, Figma"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" title="Linux"/></a></div> |
+
+## ☎ Meus Contatos: <br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaosilvaabc1@mail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5512997444739)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoalv4ro/)
 
 <!---
 JoaoAlv4ro/JoaoAlv4ro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
