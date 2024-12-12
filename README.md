@@ -7,9 +7,9 @@ Tenho experiência em JavaScript, Python, Tailwind, AWS e na metodologia Scrum, 
 Estou aberto a novas oportunidades para expandir meus conhecimentos e contribuir com soluções criativas. Se você está procurando um profissional jovem, motivado e em busca de aprendizado contínuo, adoraria conversar mais!
 
 ## 👨‍🎓 Formação:
-👔 Técnico formado em Administração pelo CEPHAS; <br>
-💻 Técnico formado em Desenvolvimento de Sistema pela ETEC; <br>
-👨‍💻 Atualmente, estudante em Análise e Desenvolvimento de Sistemas na FATEC de São José dos Campos.
+👔 Técnico em **Administração** pelo CEPHAS; <br>
+💻 Técnico em **Desenvolvimento de Sistema** pela ETEC; <br>
+👨‍💻 Atualmente, estudante em **Análise e Desenvolvimento de Sistemas** na FATEC de São José dos Campos.
 
 ## 🚀 Tecnologias:
 | Linguagens | Frameworks | IDE's | Ferramentas | SO |
