@@ -2,7 +2,7 @@
 # 👋 Oi! Eu sou o João Álvaro
 Olá! Sou o Álvaro, estudante de Análise e Desenvolvimento de Sistemas, apaixonado por programação e tecnologia. Busco constantemente novos desafios que me permitam aplicar meus conhecimentos e aprimorar minhas habilidades no desenvolvimento de soluções profissionais.
 
-Tenho experiência em Java, Python, Tailwind, AWS e na metodologia Scrum, estou sempre me atualizando em busca de melhores práticas de desenvolvimento. Além disso, sou uma pessoa comunicativa e adoro colaborar em equipe, pois acredito que o aprendizado é mais eficiente quando compartilhado.
+Tenho experiência em Java, Python, Typescript, AWS e na metodologia Scrum, estou sempre me atualizando em busca de melhores práticas de desenvolvimento. Além disso, sou uma pessoa comunicativa e adoro colaborar em equipe, pois acredito que o aprendizado é mais eficiente quando compartilhado.
 
 Estou aberto a novas oportunidades para expandir meus conhecimentos e contribuir com soluções criativas. Se você está procurando um profissional jovem, motivado e em busca de aprendizado contínuo, adoraria conversar mais!
 
