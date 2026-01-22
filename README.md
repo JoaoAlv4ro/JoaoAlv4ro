@@ -1,10 +1,13 @@
 
 # 👋 Oi! Eu sou o João Álvaro
-Olá! Sou o Álvaro, estudante de Análise e Desenvolvimento de Sistemas, apaixonado por programação e tecnologia. Busco constantemente novos desafios que me permitam aplicar meus conhecimentos e aprimorar minhas habilidades no desenvolvimento de soluções profissionais.
+Estudante de Análise e Desenvolvimento de Sistemas (FATEC SJC) e futuro desenvolvedor full-stack! Desenvolvo aplicações web com
+foco em integração de LLMs para features que facilitem processos e melhorem experiências!
 
-Tenho experiência em Java, Python, Typescript, AWS e na metodologia Scrum, estou sempre me atualizando em busca de melhores práticas de desenvolvimento. Além disso, sou uma pessoa comunicativa e adoro colaborar em equipe, pois acredito que o aprendizado é mais eficiente quando compartilhado.
+Já trabalhei com React, Django e Node.js, além de versionamento com Git e conceitos de cloud na AWS. Tenho familiaridade com Scrum e gosto de trabalhar em equipe, participando ativamente de discussões técnicas e melhorias contínuas.
 
-Estou aberto a novas oportunidades para expandir meus conhecimentos e contribuir com soluções criativas. Se você está procurando um profissional jovem, motivado e em busca de aprendizado contínuo, adoraria conversar mais!
+Atualmente, busco oportunidades para evoluir como desenvolvedor e contribuir em projetos reais, aprendendo na prática e entregando soluções bem estruturadas.
+
+Aberto a oportunidades júnior/estágio em front-end, back-end ou até full-stack. Vamos conversar? 😄
 
 ## 👨‍🎓 Formação:
 👔 Técnico em **Administração** pelo CEPHAS; <br>
