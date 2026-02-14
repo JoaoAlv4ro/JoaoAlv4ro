@@ -14,15 +14,15 @@ Aberto a oportunidades júnior/estágio em front-end, back-end ou até full-stac
 💻 Técnico em **Desenvolvimento de Sistema** pela ETEC; <br>
 👨‍💻 Atualmente, estudante em **Análise e Desenvolvimento de Sistemas** na FATEC de São José dos Campos.
 
+## ✨ Projetos:
+[![Sputnik](https://github-stats-extended.vercel.app/api/pin/?username=SPACELINE-API&repo=API_Semestre2)](https://github.com/SPACELINE-API/API_Semestre2)
+[![EntrenovaFlix](https://github-stats-extended.vercel.app/api/pin/?username=SPACELINE-API&repo=EntrenovaFlix)](https://github.com/SPACELINE-API/EntrenovaFlix)
+
 ## 🚀 Tecnologias:
 | Linguagens | Frameworks & Bibliotecas | IDE's | Ferramentas | SO |
 | ----- | ---- | ---- | ---- | ---- |
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,ts" title="HTML, CSS, TypeScript"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,react" title="Django, React"/></a></div>| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,supabase" title="Git, Supabase"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" title="Windows"/></a></div> |
 |  <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,java,mysql" title="Python, Java, MySQL"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap,tailwind" title="Bootstrap, Tailwind"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=idea" title="IntelliJ"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,figma" title="Amazon Web Service, Figma"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" title="Linux"/></a></div> |
-
-## ✨ Projetos:
-[![Sputnik](https://github-stats-extended.vercel.app/api/pin/?username=SPACELINE-API&repo=API_Semestre2)](https://github.com/SPACELINE-API/API_Semestre2)
-[![EntrenovaFlix](https://github-stats-extended.vercel.app/api/pin/?username=SPACELINE-API&repo=EntrenovaFlix)](https://github.com/SPACELINE-API/EntrenovaFlix)
 
 
 ## ☎ Meus Contatos: <br>
