@@ -1,6 +1,6 @@
 
 # 👋 Oi! Eu sou o João Álvaro
-Estudante de Análise e Desenvolvimento de Sistemas (FATEC SJC) e futuro desenvolvedor full-stack! Desenvolvo aplicações web com
+Estudante de Análise e Desenvolvimento de Sistemas (FATEC SJC) e futuro Engenheiro de Software! Desenvolvo aplicações web com
 foco em integração de LLMs para features que facilitem processos e melhorem experiências!
 
 Já trabalhei com React, Django e Node.js, além de versionamento com Git e conceitos de cloud na AWS. Tenho familiaridade com Scrum e gosto de trabalhar em equipe, participando ativamente de discussões técnicas e melhorias contínuas.
