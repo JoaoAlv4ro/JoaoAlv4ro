@@ -15,8 +15,9 @@ Aberto a oportunidades júnior/estágio em front-end, back-end ou até full-stac
 👨‍💻 Atualmente, estudante em **Análise e Desenvolvimento de Sistemas** na FATEC de São José dos Campos.
 
 ## ✨ Projetos:
-[![Sputnik](https://github-stats-extended.vercel.app/api/pin/?username=SPACELINE-API&repo=API_Semestre2)](https://github.com/SPACELINE-API/API_Semestre2)
 [![EntrenovaFlix](https://github-stats-extended.vercel.app/api/pin/?username=SPACELINE-API&repo=EntrenovaFlix)](https://github.com/SPACELINE-API/EntrenovaFlix)
+[![Blueprint](https://github-stats-extended.vercel.app/api/pin/?username=Equipe-SUL&repo=Blueprint)](https://github.com/Equipe-SUL/Blueprint/)
+[![Sputnik](https://github-stats-extended.vercel.app/api/pin/?username=SPACELINE-API&repo=API_Semestre2)](https://github.com/SPACELINE-API/API_Semestre2)
 
 ## 🚀 Tecnologias:
 | Linguagens | Frameworks & Bibliotecas | IDE's | Ferramentas | SO |
