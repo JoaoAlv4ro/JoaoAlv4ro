@@ -1,13 +1,11 @@
 
 # 👋 Oi! Eu sou o João Álvaro
-Estudante de Análise e Desenvolvimento de Sistemas (FATEC SJC) e futuro Engenheiro de Software! Desenvolvo aplicações web com
-foco em integração de LLMs para features que facilitem processos e melhorem experiências!
+Desde o meu primeiro contato com tecnologia no curso técnico de Desenvolvimento de Sistemas, entendi que o que me move é resolver problemas por meio de códigos.
+No dia a dia, gosto de construir aplicações web completas (transitando por React, Node.js e Django), com um interesse em integrar ferramentas de Inteligência Artificial para tornar os sistemas mais práticos e eficientes.
 
-Já trabalhei com React, Django e Node.js, além de versionamento com Git e conceitos de cloud na AWS. Tenho familiaridade com Scrum e gosto de trabalhar em equipe, participando ativamente de discussões técnicas e melhorias contínuas.
+Além da parte técnica, valorizo muito a comunicação aberta, o trabalho em equipe com Scrum e a resolução de problemas de forma colaborativa. Tenho inglês avançado e sou movido pela curiosidade e pelo aprendizado contínuo, sempre buscando me desafiar e explorar novas tecnologias, ferramentas e idiomas que ainda não tive experiência.
 
-Atualmente, busco oportunidades para evoluir como desenvolvedor e contribuir em projetos reais, aprendendo na prática e entregando soluções bem estruturadas.
-
-Aberto a oportunidades júnior/estágio em front-end, back-end ou até full-stack. Vamos conversar? 😄
+Busco um time onde eu possa somar com dedicação, aprender com desenvolvedores mais experientes e contribuir no desenvolvimento de produtos incríveis! 
 
 ## 👨‍🎓 Formação:
 👔 Técnico em **Administração** pelo CEPHAS; <br>
@@ -15,8 +13,8 @@ Aberto a oportunidades júnior/estágio em front-end, back-end ou até full-stac
 👨‍💻 Atualmente, estudante em **Análise e Desenvolvimento de Sistemas** na FATEC de São José dos Campos.
 
 ## ✨ Projetos:
-[![EntrenovaFlix](https://github-stats-extended.vercel.app/api/pin/?username=SPACELINE-API&repo=EntrenovaFlix)](https://github.com/SPACELINE-API/EntrenovaFlix)
 [![Blueprint](https://github-stats-extended.vercel.app/api/pin/?username=Equipe-SUL&repo=Blueprint)](https://github.com/Equipe-SUL/Blueprint/)
+[![EntrenovaFlix](https://github-stats-extended.vercel.app/api/pin/?username=SPACELINE-API&repo=EntrenovaFlix)](https://github.com/SPACELINE-API/EntrenovaFlix)
 [![Sputnik](https://github-stats-extended.vercel.app/api/pin/?username=SPACELINE-API&repo=API_Semestre2)](https://github.com/SPACELINE-API/API_Semestre2)
 
 ## 🚀 Tecnologias:
